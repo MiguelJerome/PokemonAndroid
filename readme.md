@@ -8,29 +8,29 @@
 
 ### Current Project State
 
-* [Project-state]()
+* [Project-state](https://github.com/MiguelJerome/PokemonAndroid/issues)
 
 ### Project Ressources
 * main
-        - [main]()
+        - [main](https://github.com/MiguelJerome/PokemonAndroid/tree/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main)
 
 # IMPORTANT FILES
 * main java
-        - [MainActivity.java]()
+        - [MainActivity.java](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/java/ca/collegelacite/evaluation_formative_11_1/MainActivity.java)
 * Personnage java
-        - [Personnage.java]()  
-* PersonnageAdapter java
-        - [PersonnageAdapter.java]()  
+        - [Pokemon.java](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/java/ca/collegelacite/evaluation_formative_11_1/Pokemon.java)  
+* Adapter Pokemon java
+        - [AdapterPokemon.java](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/java/ca/collegelacite/evaluation_formative_11_1/AdaptateurPokemon.java)  
 
-* main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/AndroidManifest.xml)   
+* main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/AndroidManifest.xml)   
 
-* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/layout/activity_main.xml)
-* ressource layout -[personnage_list_item.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/layout/personnage_list_item.xml)
+* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/res/layout/activity_main.xml)
+* ressource layout -[pokemon_list_item.xml](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/res/layout/pokemon_list_item.xml)
 
 
-* personnages json -[personnages.json](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/assets/personnages.json)
-* values strings -[strings.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/values/strings.xml)
+* pokemon json -[pokemon.json](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/assets/pokemon.json)
+* values strings -[strings.xml](https://github.com/MiguelJerome/PokemonAndroid/blob/main/Evaluation_formative_11_1_dist%20(1)/Evaluation_formative_11_1/app/src/main/res/values/strings.xml)
 
 ##  ALL my ressources for ListView Pokemon Android Studio
 
-You can have access to the ressources of my Starwars List view layount Android Studio Web Page [this the link](https://github.com/MiguelJerome/StarWars)
+You can have access to the ressources of my ListView Pokemon Android Studio Web Page [this the link](https://github.com/MiguelJerome/PokemonAndroid)
